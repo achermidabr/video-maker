@@ -1,0 +1,25 @@
+{
+  "name": "video-maker",
+  "version": "1.0.0",
+  "description": "Projeto open source para fazer videos automatizados seguindo o Youtube do @filipedeschamps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/achermidabr/video-maker.git"
+  },
+  "keywords": [
+    "video",
+    "robot",
+    "youtube",
+    "watson"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/achermidabr/video-maker/issues"
+  },
+  "homepage": "https://github.com/achermidabr/video-maker#readme"
+}
